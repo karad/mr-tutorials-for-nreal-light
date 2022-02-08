@@ -1,4 +1,4 @@
-# Hello World Tutorial
+# Hello World - MR Tutorial for Nreal light
 
 ![](Assets/HelloWorld.png)
 
@@ -13,7 +13,7 @@
 3. Open `Project`, select `Assets` > `import package` > `Custom Package` and import `NRSDKForUnityAndroid_1.7.0.unitypackage`.
 4. Check `Build Settings` > `Player Settings` by referring to [Configure Build Settings](https://nreal.gitbook.io/nrsdk-documentation/discover/quickstart-for-android#configure-build-settings)
 5. Press `Build` form `Build Settings` panel
-6. Install .apk on Android or DevKit.
+6. Install *.apk on Android or DevKit.
 
 ## Tutorial
 
@@ -39,7 +39,6 @@
 
 # 4. Build
 
-1. `Build Setting` パネルより `Build` を実行
-2. Press `Build` form `Build Settings` panel
-3. Install *.apk on Android or DevKit.
+1. Press `Build` form `Build Settings` panel
+2. Install *.apk on Android or DevKit.
 

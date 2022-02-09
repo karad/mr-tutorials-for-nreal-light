@@ -1,5 +1,7 @@
 # Cube Rotation - MR Tutorial for Nreal light
 
+![](Assets/CubeRotation.png)
+
 ## Sample Repository
 
 - [mr\-tutorials\-for\-nreal\-light/CubeRotation at main · karad/mr\-tutorials\-for\-nreal\-light](https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/CubeRotation)

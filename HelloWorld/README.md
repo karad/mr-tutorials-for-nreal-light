@@ -32,12 +32,13 @@
     3. `Scale`
         1. `X` : 0.005 , `Y` : 0.005 , `Z` : 0.005
 
-# 3. Put Text in Canvas
+### 3. Put Text in Canvas
 
 1. Put `Text` as a child of `Canvas`
     1. `Pos X` : 0, `Pos Y` : 50, `Pos Z` : 3
+2. Change Text to "Hello World!" on Inspector panel.
 
-# 4. Build
+### 4. Build
 
 1. Press `Build` form `Build Settings` panel
 2. Install *.apk on Android or DevKit.

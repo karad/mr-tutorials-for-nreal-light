@@ -409,7 +409,7 @@ GameObject:
   - component: {fileID: 1057071987}
   - component: {fileID: 1057071990}
   m_Layer: 5
-  m_Name: Button
+  m_Name: RotateRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -545,7 +545,7 @@ GameObject:
   - component: {fileID: 1059917460}
   - component: {fileID: 1059917463}
   m_Layer: 5
-  m_Name: Button
+  m_Name: RotateLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

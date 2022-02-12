@@ -6,7 +6,7 @@ This sample is to see what size you can actually feel by placing many 1x1x1 cube
 
 ## Sample Repository
 
-- 
+- [mr\-tutorials\-for\-nreal\-light/CubeSize at main · karad/mr\-tutorials\-for\-nreal\-light](https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/CubeSize)
 
 ## Run the sample
 

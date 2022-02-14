@@ -149,3 +149,9 @@ public class RotateButton : MonoBehaviour, IPointerUpHandler, IPointerDownHandle
 3. Attach the `RotateButton.cs` on `Inspector` panel.
     1. Set `Target Cube` to RotatableCube you just created.
     2. Set `Rotation Type` to LEFT.
+
+### 8. Build
+
+1. Press `Build` form `Build Settings` panel
+2. Install *.apk on Android or DevKit.
+

@@ -6,7 +6,7 @@ Simple HandTracking tutorial. Use hand tracking to pinch to increase the count!
 
 ## Sample Repository
 
-- 
+- [mr\-tutorials\-for\-nreal\-light/HandTracking at main · karad/mr\-tutorials\-for\-nreal\-light](https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/HandTracking)
 
 ## Run the sample
 

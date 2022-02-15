@@ -8,5 +8,5 @@
     - This sample is to see what size you can actually feel by placing many 1x1x1 cubes in the space.
 - [HandTracking](https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/HandTracking)
     - Simple HandTracking tutorial. Use hand tracking to pinch to increase the count!
-- [mr\-tutorials\-for\-nreal\-light/PinchStrength at main · karad/mr\-tutorials\-for\-nreal\-light](https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/PinchStrength)
+- [Pinch Strength using HandTracking](https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/PinchStrength)
     - Measure the strength of your left and right hand hand tracking.

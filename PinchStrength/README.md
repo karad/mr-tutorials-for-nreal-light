@@ -1,8 +1,8 @@
 # Pinch Strength using HandTracking - MR Tutorial for Nreal light
 
-Measure the strength of your left and right hand hand tracking.
-
 ![](Assets/PinchStrength.png)
+
+Measure the strength of your left and right hand hand tracking.
 
 ## Sample Repository
 
@@ -103,3 +103,4 @@ public class PinchStrength : MonoBehaviour
 
 1. Press `Build` form `Build Settings` panel
 2. Install *.apk on Android or DevKit.
+

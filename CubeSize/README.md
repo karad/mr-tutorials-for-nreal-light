@@ -1,6 +1,6 @@
 # Check size of a lot of cubes on Nreal light - MR Tutorial for Nreal light
 
-![](Assets/CubeSize.png)
+![Image of the completed version](Assets/CubeSize.png)
 
 This sample is to see what size you can actually feel by placing many 1x1x1 cubes in the space.
 

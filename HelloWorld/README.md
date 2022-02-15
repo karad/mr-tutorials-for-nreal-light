@@ -1,6 +1,6 @@
 # Hello World - MR Tutorial for Nreal light
 
-![](Assets/HelloWorld.png)
+![Image of the completed version](Assets/HelloWorld.png)
 
 ## Sample Repository
 

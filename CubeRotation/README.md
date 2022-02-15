@@ -1,6 +1,6 @@
 # Cube Rotation - MR Tutorial for Nreal light
 
-![](Assets/CubeRotation.png)
+![Image of the completed version](Assets/CubeRotation.png)
 
 ## Sample Repository
 

@@ -2,7 +2,7 @@
 
 Simple HandTracking tutorial. Use hand tracking to pinch to increase the count!
 
-![](Assets/HandTracking.png)
+![Image of the completed version](Assets/HandTracking.png)
 
 ## Sample Repository
 

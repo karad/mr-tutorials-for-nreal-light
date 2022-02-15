@@ -6,7 +6,7 @@ Measure the strength of your left and right hand hand tracking.
 
 ## Sample Repository
 
-- 
+- [mr\-tutorials\-for\-nreal\-light/PinchStrength at main · karad/mr\-tutorials\-for\-nreal\-light](https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/PinchStrength)
 
 ## Run the sample
 

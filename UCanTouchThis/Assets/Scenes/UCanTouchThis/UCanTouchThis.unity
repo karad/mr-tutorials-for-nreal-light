@@ -733,6 +733,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NRHand_L
       objectReference: {fileID: 0}
+    - target: {fileID: 1660479356263662, guid: 9e73c86b401a7c34cb70b4dcaf94be65, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4261144047474834, guid: 9e73c86b401a7c34cb70b4dcaf94be65, type: 3}
       propertyPath: m_RootOrder
       value: 1

@@ -8,7 +8,7 @@ Now let's try to grab the touched GameObject and move it. This tutorial is a con
 
 ## Sample Repository
 
-- -
+- mr-tutorials-for-nreal-light/HoldMeTight at main · karad/mr-tutorials-for-nreal-light [https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/HoldMeTight](https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/HoldMeTight)
 
 ## Run the sample
 

@@ -12,3 +12,5 @@
     - Measure the strength of your left and right hand hand tracking.
 - [U Can Touch This](https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/UCanTouchThis)
     - Touch the object with the index finger of your right hand.
+- [Hold Me Tight](https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/HoldMeTight)
+    - Let's try to grab the touched GameObject and move it.

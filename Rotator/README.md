@@ -142,7 +142,7 @@ public class HandController : MonoBehaviour
 
 Let's also create a display area to get a numerical value for the right hand rotation value. Create `C# Script` in the asset with the file name "DisplayInfo.cs". Write the code as follows.
 
-```csharp
+```
 using NRKernal;
 using System.Collections;
 using System.Collections.Generic;
@@ -178,11 +178,21 @@ public class DisplayInfo : MonoBehaviour
 }
 ```
 
-### 5. Run the tutorial
+### 5. Put Text on the scene
+
+Put Text object for displaying the cube rotation value.
+
+1. Put `Canvas` from `Create` > `UI`
+2. Put `Text` as a child of `Canvas`
+3. Change Text to “Info” on `Inspector` panel.
+4. Attach `DisplayInfo.cs` on `Inspector` panel of `Canvas`.
+5. Set `info` to `Info` Text Object.
+
+### 6. Run the tutorial
 
 - Press `Play` button and run the tutorial.
 
-### 6. Build
+### 7. Build
 
 1. Press `Build` form `Build Settings` panel
 2. Install *.apk on Android or DevKit.

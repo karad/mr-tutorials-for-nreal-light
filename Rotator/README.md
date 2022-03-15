@@ -8,7 +8,7 @@ Next, let's rotate the GameObject touched around the palm of your right hand. Th
 
 ## Sample Repository
 
-- -
+- mr-tutorials-for-nreal-light/Rotator at main · karad/mr-tutorials-for-nreal-light https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/Rotator
 
 ## Run the sample
 

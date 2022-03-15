@@ -14,3 +14,5 @@
     - Touch the object with the index finger of your right hand.
 - [Hold Me Tight](https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/HoldMeTight)
     - Let's try to grab the touched GameObject and move it.
+- [Rotator](https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/Rotator)
+    - Rotate the GameObject touched around the palm of your right hand.

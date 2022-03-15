@@ -1,6 +1,6 @@
 # Hold Me Tight - MR Tutorial for Nreal Light
 
-![](./Assets/HoldMeTight.png)
+![Completion screen of sample](./Assets/HoldMeTight.png)
 
 Now let's try to grab the touched GameObject and move it. This tutorial is a continuation of the "U Can Touch This" tutorial. If you have not yet comple "U Can Touch This", please proceed with the following tutorial first.
 

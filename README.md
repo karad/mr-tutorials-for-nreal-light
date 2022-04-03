@@ -1,5 +1,7 @@
 # MR Tutorials for Nreal light
 
+This repository is the site for unofficial samples of Nreal Light.
+
 - [Hello World](https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/HelloWorld)
     - The Hello World tutorial is the simplest of tutorials. It displays "Hello World" in text on the screen.
 - [Cube Rotation](https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/CubeRotation)
@@ -16,3 +18,5 @@
     - Let's try to grab the touched GameObject and move it.
 - [Rotator](https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/Rotator)
     - Rotate the GameObject touched around the palm of your right hand.
+- [Images and Words (Image detection sample)](https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/ImagesAndWords)
+    - This is the simplest image detection sample.

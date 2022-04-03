@@ -1,4 +1,4 @@
-# vol.09 Images and words :  Image detection sample
+# Images and words (Image detection sample) - MR Tutorial for Nreal Light
 
 ![Image of the completed version](Assets/ImagesAndWords.png)
 

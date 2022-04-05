@@ -1,4 +1,4 @@
-# Rotator - MR Tutorial for Nreal Light
+# Rotator (Sample of grabbing an object and rotating it) - MR Tutorial for Nreal Light
 
 ![Image of the completed version](Assets/Rotator.png)
 

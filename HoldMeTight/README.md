@@ -1,4 +1,4 @@
-# Hold Me Tight - MR Tutorial for Nreal Light
+# Hold Me Tight (Sample of using Grab to grab and move an object) - MR Tutorial for Nreal Light
 
 ![Completion screen of sample](./Assets/HoldMeTight.png)
 

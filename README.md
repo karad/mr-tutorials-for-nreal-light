@@ -20,3 +20,9 @@ This repository is the site for unofficial samples of Nreal Light.
     - Rotate the GameObject touched around the palm of your right hand.
 - [Images and Words (Sample of image detection)](https://github.com/karad/mr-tutorials-for-nreal-light/tree/main/ImagesAndWords)
     - This is the simplest image detection sample.
+
+## Articles
+
+- [Upgrading to NRSDK 1.8.0](https://github.com/karad/mr-tutorials-for-nreal-light/blob/main/Posts/UpgradingTo1-8-0-part-1.md)
+    - Until now, the tutorials have been based on NRSDK 1.7.0. Currently, the latest NRSDK version is 1.8.0. This section explains what you need to do to upgrade an old SDK.
+

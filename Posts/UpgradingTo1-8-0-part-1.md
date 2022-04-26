@@ -10,7 +10,7 @@ NRSDK version 1.8.0 and later have different documentation URLs. Check the follo
 
 First, download NRSDK 1.8.0 from the following link.
 
-![Download NRSDK 1.8.0](Assets/Images/download_nrsdk_1.8.0.png)
+[![Download NRSDK 1.8.0](Assets/Images/download_nrsdk_1.8.0.png)](https://developer.nreal.ai/download)
 
 - [Download | Nreal](https://developer.nreal.ai/download)
 

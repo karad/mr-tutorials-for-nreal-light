@@ -9,9 +9,9 @@
 ## Run the sample
 
 1. Clone Sample Repository, Change current directory to `HelloWorld`. And Open with Unity.
-2. (If you don't have NRSDK) Download NRSDK 1.7.0 from [https://nreal-public.nreal.ai/download/NRSDKForUnityAndroid_1.7.0.unitypackage](https://nreal-public.nreal.ai/download/NRSDKForUnityAndroid_1.7.0.unitypackage)
+2. (If you don't have NRSDK) Download NRSDK 1.8.0 from [Download | Nreal](https://developer.nreal.ai/download)
 3. Open `Build Setting`, change Platform to `Android`
-4. Open `Project`, select `Assets` > `import package` > `Custom Package` and import `NRSDKForUnityAndroid_1.7.0.unitypackage`.
+4. Open `Project`, select `Assets` > `import package` > `Custom Package` and import `NRSDKForUnityAndroid_1.8.0.unitypackage`.
 5. Check `Build Settings` > `Player Settings` by referring to [Configure Build Settings](https://nreal.gitbook.io/nrsdk-documentation/discover/quickstart-for-android#configure-build-settings)
 6. Press `Build` form `Build Settings` panel
 7. Install *.apk on Android or DevKit.
@@ -20,8 +20,8 @@
 
 ### 1. Setting up the project for Nreal development
 
-1. See [Quickstart for Android - NRSDK Documentation](https://nreal.gitbook.io/nrsdk-documentation/discover/quickstart-for-android#configure-build-settings) and configure the build settings.
-2. (If you don't have NRSDK) Download NRSDK 1.7.0 from [https://nreal-public.nreal.ai/download/NRSDKForUnityAndroid_1.7.0.unitypackage](https://nreal-public.nreal.ai/download/NRSDKForUnityAndroid_1.7.0.unitypackage)
+1. See [Quickstart for Android \- NRSDK](https://nreal.gitbook.io/nrsdk/discover/quickstart-for-android) and configure the build settings.
+2. (If you don't have NRSDK) Download NRSDK 1.8.0 from [Download | Nreal](https://developer.nreal.ai/download)
 3. Open `Project`, select `Assets` > `import package` > `Custom Package` and import `NRSDKForUnityAndroid_1.7.0.unitypackage`.
 
 ### 2. Put a Canvas in the scene
@@ -38,6 +38,7 @@
 1. Put `Text` as a child of `Canvas`
     1. `Pos X` : 0, `Pos Y` : 50, `Pos Z` : 3
 2. Change Text to "Hello World!" on Inspector panel.
+3. Change color of Text to `#fff`.
 
 ### 4. Build
 
